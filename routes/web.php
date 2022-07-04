@@ -18,7 +18,7 @@ Route::get('/', function () {
 
    $data =[
        'title'=>'hi, I hope I can learn it fast.',
-       'content'=>'Tis is laravel course is really too old'
+       'content'=>'This is laravel course is really too old'
 
    ];
 
